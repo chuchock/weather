@@ -88,3 +88,8 @@ input[type=text]:not(.browser-default):focus:not([readonly])+label {
 	text-align: center!important;
 	color: #FFF!important;
 }
+
+.waves-button-input {
+	width: 100%;
+	height: 100%;
+}
